@@ -1,0 +1,84 @@
+{
+  "routeAssets": {
+    "main": {
+      "chunkIds": [
+        272,
+        986,
+        991,
+        193,
+        651,
+        357,
+        179
+      ],
+      "assets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/lib-polyfill.216ab4e3.js",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/lib-lodash.9b905109.js",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/lib-react.b15a9c6a.js",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/lib-router.b7b66f74.js",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/357.cd3919bd.js",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/main.866ddf26.css",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/main.c5aaf8e4.js"
+      ],
+      "referenceCssAssets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/main.866ddf26.css"
+      ]
+    },
+    "$": {
+      "chunkIds": [
+        242
+      ],
+      "assets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/async/$.03d49622.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "page": {
+      "chunkIds": [
+        768
+      ],
+      "assets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/page.8ef412fc.css",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/async/page.4cc0d022.js"
+      ],
+      "referenceCssAssets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/page.8ef412fc.css"
+      ]
+    },
+    "static/notice/page": {
+      "chunkIds": [
+        613
+      ],
+      "assets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/static/notice/page.82dfee22.css",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/async/static/notice/page.ed1ba9c5.js"
+      ],
+      "referenceCssAssets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/static/notice/page.82dfee22.css"
+      ]
+    },
+    "static/privacy-policy/page": {
+      "chunkIds": [
+        738
+      ],
+      "assets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/static/privacy-policy/page.82dfee22.css",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/async/static/privacy-policy/page.f6eb9dac.js"
+      ],
+      "referenceCssAssets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/static/privacy-policy/page.82dfee22.css"
+      ]
+    },
+    "static/terms/page": {
+      "chunkIds": [
+        740
+      ],
+      "assets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/static/terms/page.82dfee22.css",
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/js/async/static/terms/page.841bde4b.js"
+      ],
+      "referenceCssAssets": [
+        "//lf3-transtudio.bytetos.com/obj/lab-mt-public/gr2/static/css/async/static/terms/page.82dfee22.css"
+      ]
+    }
+  }
+}

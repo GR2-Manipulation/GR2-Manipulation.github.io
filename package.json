@@ -1,0 +1,12 @@
+{
+  "name": "website",
+  "version": "1.2.0",
+  "dependencies": {
+    "@modern-js/prod-server": "2.31.0",
+    "@byted-service/env": "1.17.1",
+    "@modern-js/plugin-data-loader": "2.31.0"
+  },
+  "resolutions": {},
+  "pnpm": {},
+  "scripts": {}
+}

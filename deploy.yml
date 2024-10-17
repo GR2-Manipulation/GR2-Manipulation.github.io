@@ -1,0 +1,13 @@
+version: 1
+web:
+  dir: "."
+  runtime: "worker"
+  isCustomServer: false
+routes:
+  - src: "/**"
+    dest:
+      type: "web"
+      path: "html/main/index.html"
+      ssr: false
+      redirect: ""
+      stream: false
